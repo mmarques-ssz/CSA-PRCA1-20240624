@@ -1,0 +1,4 @@
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\CSA2024s1\solRepete3\projRepete3\bin\Debug\projRepete3.exe
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\CSA2024s1\solRepete3\projRepete3\bin\Debug\projRepete3.pdb
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\CSA2024s1\solRepete3\projRepete3\obj\x86\Debug\projRepete3.exe
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\CSA2024s1\solRepete3\projRepete3\obj\x86\Debug\projRepete3.pdb

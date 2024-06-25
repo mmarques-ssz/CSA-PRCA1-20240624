@@ -1,0 +1,4 @@
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\CSA2024s1\solTabuada\projTabuada\bin\Debug\projTabuada.exe
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\CSA2024s1\solTabuada\projTabuada\bin\Debug\projTabuada.pdb
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\CSA2024s1\solTabuada\projTabuada\obj\x86\Debug\projTabuada.exe
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\CSA2024s1\solTabuada\projTabuada\obj\x86\Debug\projTabuada.pdb

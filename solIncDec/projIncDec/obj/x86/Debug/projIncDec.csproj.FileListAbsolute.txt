@@ -1,0 +1,4 @@
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\CSA2024s1\solIncDec\projIncDec\bin\Debug\projIncDec.exe
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\CSA2024s1\solIncDec\projIncDec\bin\Debug\projIncDec.pdb
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\CSA2024s1\solIncDec\projIncDec\obj\x86\Debug\projIncDec.exe
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\CSA2024s1\solIncDec\projIncDec\obj\x86\Debug\projIncDec.pdb
